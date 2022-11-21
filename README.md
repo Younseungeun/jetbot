@@ -24,6 +24,7 @@
 ![image](https://user-images.githubusercontent.com/102523600/203035624-cff094a4-bacc-4f16-a794-df8071bf316a.png)
 - 위와 같은 과정을 거친다면 다음과 같은 창이 뜬다
 ![image](https://user-images.githubusercontent.com/102523600/203035922-5199290c-1327-46aa-8716-565b95d6c164.png)
+- 다음과 같이 셀 클릭 후 실행
 ![image](https://user-images.githubusercontent.com/102523600/203036950-f1d48876-0c9a-4b0f-93c1-b5852ae58af7.png)
 ![image](https://user-images.githubusercontent.com/102523600/203037056-c8e29445-1222-4195-92cc-791e8cb42c55.png)
 ![image](https://user-images.githubusercontent.com/102523600/203037158-75620e76-ecb3-49a3-9cd4-629e75448656.png)
