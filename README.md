@@ -36,5 +36,11 @@
 ![image](https://user-images.githubusercontent.com/102523600/203037268-b16e1949-46ab-4800-b2c4-a7f230f41119.png)
 ![image](https://user-images.githubusercontent.com/102523600/203037356-632f85be-e6dd-43e4-aa0e-8c5791c5adf4.png)
 - 위의 부분을 통해 수정가능 (-)를 붙이면 모터 방향 반대
+![image](https://user-images.githubusercontent.com/102523600/203039023-e6f761f5-6635-43d1-8877-eb2b952aa863.png)
+![image](https://user-images.githubusercontent.com/102523600/203039216-9181db82-ae4f-4d9a-a590-c660aca48225.png)
+![image](https://user-images.githubusercontent.com/102523600/203039351-2700eb9e-e17f-4036-b6f4-52d162e41fc8.png)
+
+
+
 -------------------------------------------------------------------------------------------------------
 # 문제점 
