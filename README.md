@@ -18,7 +18,7 @@
 
 1. jetbot 전원 켜기
 2. jupyter lab 연결(주소창에 'jetbot 주소:8888') ex)172.16.60.253:8888
-3. 
+3. 다음 과정 실행
 ![image](https://user-images.githubusercontent.com/102523600/203035577-c80fdf0e-6722-402b-a601-946d7011e8c8.png)
 ![image](https://user-images.githubusercontent.com/102523600/203035624-cff094a4-bacc-4f16-a794-df8071bf316a.png)
 ![image](https://user-images.githubusercontent.com/102523600/203035922-5199290c-1327-46aa-8716-565b95d6c164.png)
