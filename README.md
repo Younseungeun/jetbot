@@ -29,6 +29,7 @@
 - 다음과 같이 셀 클릭 후 실행
 
 4.robot.py를 통한 
+
 ![image](https://user-images.githubusercontent.com/102523600/203036950-f1d48876-0c9a-4b0f-93c1-b5852ae58af7.png)
 ![image](https://user-images.githubusercontent.com/102523600/203037056-c8e29445-1222-4195-92cc-791e8cb42c55.png)
 ![image](https://user-images.githubusercontent.com/102523600/203037158-75620e76-ecb3-49a3-9cd4-629e75448656.png)
