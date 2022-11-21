@@ -1,7 +1,9 @@
 # jetbot
-## SD card formet
+-------------------------------------------------------------------------------------------------------------
+## STEP0
+1.SD card formet
 - 용량 확보 및 불필요한 데이터 제거
-## flash meomory
+2. flash meomory
 1.Jetbot image 굽기
 - 링크: https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view
 2. Balena Etcher 설치
