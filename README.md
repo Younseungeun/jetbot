@@ -1,6 +1,7 @@
 # jetbot
 -------------------------------------------------------------------------------------------------------------
 ## STEP0
+
 1.SD card formet
 - 용량 확보 및 불필요한 데이터 제거
 2. flash meomory
@@ -11,4 +12,4 @@
 
 ![image](https://user-images.githubusercontent.com/102523600/200292038-0411aabb-7f87-48e1-b243-d774ea1abed1.png)
 =>다음과 같은 창이 뜬다.
-## put SD card in jetbot
+3. put SD card in jetbot
